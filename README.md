@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ademozcan
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Product Management
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Operation Research Systems
